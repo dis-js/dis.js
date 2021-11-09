@@ -1,0 +1,27 @@
+{
+    "name": "dis.js",
+    "version": "0.0.1",
+    "description": "A powerful framework for interacting with the Discord JS",
+    "main": "./src/index.js",
+    "contributors": [
+        "Yeti <krip17gmail.com>",
+        "Haitany <literallymyfault@gmail.com>"
+    ],
+    "license": "ISC",
+    "keywords": [
+        "discord",
+        "api",
+        "bot",
+        "client",
+        "node",
+        "discordapp"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dis-js/dis.js.git"
+    },
+    "dependencies": {
+        "discord.js": "^13.3.1",
+        "log-beautify": "^1.2.0"
+    }
+}
